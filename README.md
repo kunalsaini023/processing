@@ -8,3 +8,4 @@ feature and working of the game-
 4. One of the value is sum of the two randomly generated value and other is random garbage.
 5.  if you keep your cursor on the correct value the player moves and reaches the next checkpoint.
 6.  and so on, after the last checkpoint game finishes.
+i have uploaded the application(.exe) file to my drive- 
